@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=ghabrielferrari&icon=2&color=1)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Android Mobile Projects**
 - 🌱 I’m currently learning **Firebase Services**
