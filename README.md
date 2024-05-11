@@ -23,7 +23,4 @@ Hello! I'm Gabriel, I'm 19 years old and I'm studying the 3rd semester of Softwa
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ghabrielferrari&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=ghabrielferrari&icon=2&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
