@@ -7,7 +7,7 @@
 - 📫 How to reach me: ghcferrari75@gmail.com
 
 ## About Me
-Hello! I'm Gabriel, I'm 19 years old and I'm studying the 3rd semester of Software Engineering at PUCC. I'm looking for an opportunity as an intern in the IT area, where I can apply my passion for problem solving and my desire for professional and personal growth.
+Hello! I'm 19 years old and currently in the 3rd semester of Software Engineering at PUCC. I'm seeking an internship opportunity in the IT field where I can apply my passion for problem solving and pursue both professional and personal growth.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gabriel-ferrari-442493287/) 
