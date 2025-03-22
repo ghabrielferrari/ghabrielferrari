@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **IOS Mobile Projects**
 - 🌱 I’m currently learning **SwiftUI and Core Data**
-- 👯 I’m looking to collaborate on **Mobile Dev Projects**
+- 👯 I’m looking to collaborate on **IOS Dev Projects**
 - 💬 Ask me about **Technology**
 - 📫 How to reach me: ghcferrari75@gmail.com
 
