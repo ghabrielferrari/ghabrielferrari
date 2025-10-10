@@ -7,7 +7,7 @@
 - 📫 How to reach me: ghcferrari75@gmail.com
 
 ## About Me
-Hello! I’m Gabriel, a 20-year-old Software Developer currently in my 6th semester of Information Systems at PUCC. I am actively seeking new opportunities in the IT field where I can leverage my problem-solving skills and passion for technology to contribute to innovative projects while continuing to grow both professionally and personally.
+Hello! I’m Gabriel, a 20-year-old Software Developer currently in my 6th semester of Software Engineering. I am also proud to be part of the Apple Developer Academy, where I’m honing my skills in creating impactful and innovative solutions. I am actively seeking new opportunities in the IT field where I can leverage my problem-solving skills and passion for technology to contribute to cutting-edge projects while continuing to grow both professionally and personally.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ghabriel-ferrari/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghcferrari75@gmail.com) 
