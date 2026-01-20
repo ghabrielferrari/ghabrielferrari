@@ -6,8 +6,8 @@ I build end-to-end products, working mainly with backend systems, APIs, and mobi
 Currently part of the Apple Developer Academy, developing real-world projects with clean architecture and modern practices.
 
 **Main stack:** Node.js · Java (Spring Boot) · Swift & SwiftUI  
-Databases: PostgreSQL · MongoDB · Redis  
-Cloud & Tools: Docker · AWS · CI/CD
+Infrastructure: Docker · AWS · CI/CD  
+Databases: PostgreSQL · MongoDB · Redis
 
 📫 Reach me at: ghcferrari75@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/ghabriel-ferrari/
